@@ -1,0 +1,52 @@
+baseurl = "https://rubyblock.net/"
+languageCode = "en-us"
+title = "rubyblock.net"
+theme = "type"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "spf13"
+# Add your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Posts per page
+paginate = 10
+
+
+[params]
+	author = "Chris Rogers"
+	description = "Add a description of your website"
+	# The keywords will be added as a meta tag. Delimit them with a comma.
+	keywords = ""
+	# Either show custom avatar on the top
+	# left by adding the filename in below
+	avatar = ""
+	# or use Gravatar by adding your email address to generate a unique avatar
+	# gravatar = "chris@rubyblock.net"
+
+	headerText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br>Remove all header text in **config.toml** to disable this feature."
+	# To add a header background to the main site, save your image under static/img/.
+	# If now image path is provided, a orange background will be shown instead.
+	headerImage = "https://source.unsplash.com/random"
+	copyright = "Released under the MIT license<br>Powered by [Hugo](//gohugo.io/)"
+
+	[params.social]
+		# Insert your accout name and the icon will be shown in the right menu
+		rss = false
+		homepage = false
+		email = ""
+		behance = ""
+		bitbucket  =""
+		dribbble = ""
+		facebook = ""
+		flickr = ""
+		github = ""
+		googleplus = ""
+		instagram = ""
+		linkedin = ""
+		pinterest = ""
+		reddit = ""
+		soundcloud = ""
+		stackexchange = ""
+		steam = ""
+		tumblr = ""
+		twitter = ""
+		wordpress = ""
+		youtube = ""
